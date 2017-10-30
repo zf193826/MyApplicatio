@@ -1,0 +1,2 @@
+include ':app', ':day_02lianxi', ':day03', ':day03_lianxi', ':zhangfeng20170929', ':zhangfeng20170929', ':rikao6', ':week_one', ':zhangfeng20171010', ':zhangfeng20171011', ':zhangfeng20171011', ':zf20171011', ':zhangfeng20171012', ':zf20171012', ':yk_lianxi', ':zhangfeng20171014', ':monikao', ':week2', ':zhangfeng20171017', ':zf20171017lianxi', ':zhangfeng20171018', ':day16', ':day16xia', ':zhangfeng20171019', ':zf20171019lianxi', ':zhangfeng20171020', ':week3', ':week_03', ':yuekao_lianxi', ':zhangfeng20171024', ':yuekao_b', ':yuekao_A', ':yuekao_c'
+include ':library'

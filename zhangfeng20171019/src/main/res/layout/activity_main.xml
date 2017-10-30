@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="lianxi.com.zhangfeng20171019.MainActivity">
+    <FrameLayout
+        android:id="@+id/frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/radio_group">
+
+    </FrameLayout>
+
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <RadioButton
+            android:id="@+id/btn_01"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="首页"/>
+        <RadioButton
+            android:id="@+id/btn_02"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="自选"/>
+        <RadioButton
+            android:id="@+id/btn_03"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="行情"/>
+        <RadioButton
+            android:id="@+id/btn_04"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="资讯"/>
+        <RadioButton
+            android:id="@+id/btn_05"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="交易"/>
+
+    </RadioGroup>
+
+
+
+</RelativeLayout>

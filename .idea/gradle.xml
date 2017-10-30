@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day03" />
+            <option value="$PROJECT_DIR$/day03_lianxi" />
+            <option value="$PROJECT_DIR$/day16" />
+            <option value="$PROJECT_DIR$/day16xia" />
+            <option value="$PROJECT_DIR$/day_02lianxi" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/monikao" />
+            <option value="$PROJECT_DIR$/rikao6" />
+            <option value="$PROJECT_DIR$/week2" />
+            <option value="$PROJECT_DIR$/week3" />
+            <option value="$PROJECT_DIR$/week_03" />
+            <option value="$PROJECT_DIR$/week_one" />
+            <option value="$PROJECT_DIR$/yk_lianxi" />
+            <option value="$PROJECT_DIR$/yuekao_A" />
+            <option value="$PROJECT_DIR$/yuekao_b" />
+            <option value="$PROJECT_DIR$/yuekao_c" />
+            <option value="$PROJECT_DIR$/yuekao_lianxi" />
+            <option value="$PROJECT_DIR$/zf20171011" />
+            <option value="$PROJECT_DIR$/zf20171012" />
+            <option value="$PROJECT_DIR$/zf20171017lianxi" />
+            <option value="$PROJECT_DIR$/zf20171019lianxi" />
+            <option value="$PROJECT_DIR$/zhangfeng20170929" />
+            <option value="$PROJECT_DIR$/zhangfeng20171010" />
+            <option value="$PROJECT_DIR$/zhangfeng20171011" />
+            <option value="$PROJECT_DIR$/zhangfeng20171012" />
+            <option value="$PROJECT_DIR$/zhangfeng20171014" />
+            <option value="$PROJECT_DIR$/zhangfeng20171017" />
+            <option value="$PROJECT_DIR$/zhangfeng20171018" />
+            <option value="$PROJECT_DIR$/zhangfeng20171019" />
+            <option value="$PROJECT_DIR$/zhangfeng20171020" />
+            <option value="$PROJECT_DIR$/zhangfeng20171024" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
